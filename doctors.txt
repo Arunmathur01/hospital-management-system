@@ -1,0 +1,4 @@
+Name  Age  Gender  Specialization ID
+------------------------------------
+ram       34        male      ortho     203       
+anusha    45        female    neuro     201       

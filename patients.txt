@@ -1,0 +1,4 @@
+Name  Age  Gender  ID  Disease  DoctorID  Insurance  Claimed  Room Type  Room No.  Bed No.
+------------------------------------------------------------------------------------------
+jerry     23        male      3         flu       None      Yes       No        Room      4         0         
+rita      32        female    4         backpain  None      No        No        Room      2         0         
